@@ -51,9 +51,9 @@
 [cairngorm-navigation]:https://github.com/rozd-cairngorm/cairngorm-navigation
 [socket.io-client.as3]:https://github.com/skeinlib/socket.io-client.as3
 
-[com.github.rozd.ane.Contacts]:(https://github.com/rozd/contacts)
-[com.github.rozd.ane.DeviceInfo]:(https://github.com/rozd/deviceinfo)
-[pl.mateuszmackowiak.nativeANE.NativeDialogs]:(https://github.com/mateuszmackowiak/NativeDialogs)
-[com.freshplanet.AirPushNotification]:(https://github.com/freshplanet/ANE-Push-Notification)
-[com.thejustinwalsh.TestFlight]:(https://github.com/thejustinwalsh/TestFlightANE)
-[com.sampleNativeExtensions.Maps]:(https://code.google.com/p/air-maps-ane/)
+[com.github.rozd.ane.Contacts]:https://github.com/rozd/contacts
+[com.github.rozd.ane.DeviceInfo]:https://github.com/rozd/deviceinfo
+[pl.mateuszmackowiak.nativeANE.NativeDialogs]:https://github.com/mateuszmackowiak/NativeDialogs
+[com.freshplanet.AirPushNotification]:https://github.com/freshplanet/ANE-Push-Notification
+[com.thejustinwalsh.TestFlight]:https://github.com/thejustinwalsh/TestFlightANE
+[com.sampleNativeExtensions.Maps]:https://code.google.com/p/air-maps-ane/
