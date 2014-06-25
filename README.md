@@ -24,6 +24,13 @@
 ##### P2P Communication
 * [RTMFP] - for audio/video data, protcol [specification](http://tools.ietf.org/html/draft-thornburgh-rtmfp-flash-04). [article2](http://www.adobe.com/devnet/flashplayer/articles/rtmfp_cirrus_app.html), [article2](http://www.adobe.com/devnet/adobe-media-server/articles/p2p_rtmfp_groups.html)
 
+##### Native Extensions
+* [com.github.rozd.ane.Contacts] - for access to Address Book;
+* [com.github.rozd.ane.DeviceInfo] - provides additional data about Device;
+* [pl.mateuszmackowiak.nativeANE.NativeDialogs] - for working with native dialogs;
+* [com.freshplanet.AirPushNotification] - for Push Notification (**NOT USED YET**);
+* [com.thejustinwalsh.TestFlight] - for integration with TestFlight (**NOT USED YET**);
+* [com.sampleNativeExtensions.Maps] - access to native maps application (**NOT USED YET**).
 
 [Adobe AIR]:http://labs.adobe.com/downloads/air.html
 [RTMFP]:http://labs.adobe.com/technologies/cirrus/
@@ -41,7 +48,12 @@
 [skein-validation]:https://github.com/skeinlib/skein/tree/master/skein-validation
 [skein-popups]:https://github.com/skeinlib/skein/tree/master/skein-popups
 [skein-rest]:https://github.com/skeinlib/skein/tree/master/skein-rest
-
 [cairngorm-navigation]:https://github.com/rozd-cairngorm/cairngorm-navigation
-
 [socket.io-client.as3]:https://github.com/skeinlib/socket.io-client.as3
+
+[com.github.rozd.ane.Contacts]:(https://github.com/rozd/contacts)
+[com.github.rozd.ane.DeviceInfo]:(https://github.com/rozd/deviceinfo)
+[pl.mateuszmackowiak.nativeANE.NativeDialogs]:(https://github.com/mateuszmackowiak/NativeDialogs)
+[com.freshplanet.AirPushNotification]:(https://github.com/freshplanet/ANE-Push-Notification)
+[com.thejustinwalsh.TestFlight]:(https://github.com/thejustinwalsh/TestFlightANE)
+[com.sampleNativeExtensions.Maps]:(https://code.google.com/p/air-maps-ane/)
