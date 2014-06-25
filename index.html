@@ -27,8 +27,60 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h1>
-<a name="mobitilegithubio" class="anchor" href="#mobitilegithubio"><span class="octicon octicon-link"></span></a>mobitile.github.io</h1>
+        <h2>
+<a name="mobitile-client-application-technical-notes" class="anchor" href="#mobitile-client-application-technical-notes"><span class="octicon octicon-link"></span></a>Mobitile Client Application Technical Notes</h2>
+
+<h5>
+<a name="patform" class="anchor" href="#patform"><span class="octicon octicon-link"></span></a>Patform</h5>
+
+<ul>
+<li>
+<a href="http://labs.adobe.com/downloads/air.html">Adobe AIR</a> </li>
+<li>
+<a href="http://www.adobe.com/devnet/flashplayer/stage3d.html">Stage3D</a> - allows access to GPU hardware acceleration;</li>
+<li>
+<a href="http://gamua.com/starling/">Starling</a> - 2D Engine built on Stage3D, simplifies work with Stage3D;</li>
+</ul><h5>
+<a name="ui" class="anchor" href="#ui"><span class="octicon octicon-link"></span></a>UI</h5>
+
+<ul>
+<li>
+<a href="http://feathersui.com">Feathers</a> - component framework built on <a href="http://gamua.com/starling/">Starling</a>;</li>
+<li>
+<a href="https://github.com/skeinlib/skein/tree/master/skein-components">skein-components</a> - for building layout;</li>
+<li>
+<a href="https://github.com/skeinlib/skein/tree/master/skein-validation">skein-validation</a> - for form validation;</li>
+<li>
+<a href="https://github.com/skeinlib/skein/tree/master/skein-binding">skein-binding</a> - for data binding;</li>
+<li>
+<a href="https://github.com/skeinlib/skein/tree/master/skein-popups">skein-popups</a> - for work with popoups.</li>
+</ul><h5>
+<a name="application-architecture" class="anchor" href="#application-architecture"><span class="octicon octicon-link"></span></a>Application Architecture</h5>
+
+<ul>
+<li>
+<a href="http://sourceforge.net/adobe/cairngorm/wiki/CairngormGuidelines/">Cairngorm Guidelines</a> - gudelines for building applictions;</li>
+<li>
+<a href="https://github.com/rozd-spicefactory/parsley-starling">Parsley</a> - microarchitecure framework (adopted for Starling);</li>
+<li>
+<a href="https://github.com/rozd-cairngorm/cairngorm-navigation">cairngorm-navigation</a> - for application navigation;</li>
+</ul><h5>
+<a name="client-server-communication" class="anchor" href="#client-server-communication"><span class="octicon octicon-link"></span></a>Client-Server Communication</h5>
+
+<ul>
+<li>
+<a href="https://github.com/skeinlib/skein/tree/master/skein-rest">skein-rest</a> - for RESTfull services, with DefaultRestClient based on standard <a href="http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/net/URLLoader.html">URLLoader</a>
+</li>
+<li>
+<a href="https://github.com/skeinlib/socket.io-client.as3">socket.io-client.as3</a> - socket.io for Messenger built on Node.js server through <a href="http://socket.io">socket.io</a> v 1.0 protocol.</li>
+</ul><h5>
+<a name="p2p-communication" class="anchor" href="#p2p-communication"><span class="octicon octicon-link"></span></a>P2P Communication</h5>
+
+<ul>
+<li>
+<a href="http://labs.adobe.com/technologies/cirrus/">RTMFP</a> - for audio/video data, protcol <a href="http://tools.ietf.org/html/draft-thornburgh-rtmfp-flash-04">specification</a>. <a href="http://www.adobe.com/devnet/flashplayer/articles/rtmfp_cirrus_app.html">article2</a>, <a href="http://www.adobe.com/devnet/adobe-media-server/articles/p2p_rtmfp_groups.html">article2</a>
+</li>
+</ul>
       </section>
     </div>
 
