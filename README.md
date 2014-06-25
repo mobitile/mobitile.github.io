@@ -22,7 +22,7 @@
 * [socket.io-client.as3] - socket.io for Messenger built on Node.js server through [socket.io] v 1.0 protocol.
 
 ##### P2P Communication
-* [RTMFP] - for audio/video data, protcol [specification](http://tools.ietf.org/html/draft-thornburgh-rtmfp-flash-04). [article2](http://www.adobe.com/devnet/flashplayer/articles/rtmfp_cirrus_app.html), [article2](http://www.adobe.com/devnet/adobe-media-server/articles/p2p_rtmfp_groups.html)
+* [RTMFP] - for audio/video data, protcol [specification](http://tools.ietf.org/html/draft-thornburgh-rtmfp-flash-04). [article1](http://www.adobe.com/devnet/flashplayer/articles/rtmfp_cirrus_app.html), [article2](http://www.adobe.com/devnet/adobe-media-server/articles/p2p_rtmfp_groups.html)
 
 ##### Native Extensions
 * [com.github.rozd.ane.Contacts] - for access to Address Book;
